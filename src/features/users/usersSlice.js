@@ -1,5 +1,6 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+//Initialisation of state...
 const initialState = [
 
     { id: '0', name : 'Dude Lebowski'},
