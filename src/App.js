@@ -4,7 +4,7 @@ import AddPostFrom from "./features/posts/AddPostFrom";
 
 function App() {
   return (
-    <main className="App">
+    <main className="App"> 
       <AddPostFrom />
       <PostsList />
     </main>
